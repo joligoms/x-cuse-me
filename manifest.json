@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "X-cuse me",
-    "version": "1.0.0",
+    "version": "0.0.0.1",
     "description": "Takes back the blue twitter bird, making the website less suspicious when you open up a tab...",
     "permissions": [
         "favicon"
